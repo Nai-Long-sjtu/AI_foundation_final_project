@@ -1,0 +1,118 @@
+Heart TSP12
+cardiac_muscle_cell = {regular_atrial_cardiac_myocyte, ventricular_cardiac_muscle_cell}
+
+Heart TSP21
+mural_cell = {pericyte, smooth_muscle_cell}
+
+Heart TSP25
+cardiac_muscle_cell = {regular_atrial_cardiac_myocyte, ventricular_cardiac_muscle_cell}
+mural_cell = {pericyte, smooth_muscle_cell}
+
+Heart TSP27
+mural_cell = {pericyte, smooth_muscle_cell}
+
+Kidney TSP2
+alpha_beta_T_cell = {CD4_positive_alpha_beta_T_cell, CD8_positive_alpha_beta_T_cell}
+
+Large Intestine TSP2
+intestinal_epithelial_cell = {BEST4_enterocyte, enterocyte_of_epithelium_of_large_intestine, intestinal_crypt_stem_cell_of_colon, transit_amplifying_cell_of_colon}
+
+Large Intestine TSP14
+intestinal_epithelial_cell = {enterocyte_of_epithelium_of_large_intestine, paneth_cell_of_colon}
+T_cell = {CD4_positive_alpha_beta_T_cell, CD8_positive_alpha_beta_T_cell, gamma_delta_T_cell, regulatory_T_cell}
+
+Large Intestine TSP25
+intestinal_epithelial_cell = {BEST4_enterocyte, enterocyte_of_epithelium_of_large_intestine, intestinal_crypt_stem_cell_of_colon, large_intestine_goblet_cell, paneth_cell_of_colon, transit_amplifying_cell_of_colon}
+
+Large Intestine TSP26
+myeloid_leukocyte = {colon_macrophage, myeloid_leukocyte}
+T_cell = {CD4_positive_alpha_beta_T_cell, CD8_positive_alpha_beta_T_cell, gamma_delta_T_cell}
+
+Large Intestine TSP27
+intestinal_epithelial_cell = {enterocyte_of_epithelium_of_large_intestine, large_intestine_goblet_cell}
+myeloid_leukocyte = {colon_macrophage, myeloid_leukocyte}
+T_cell = {CD4_positive_alpha_beta_T_cell, CD8_positive_alpha_beta_T_cell, gamma_delta_T_cell, naive_thymus_derived_CD4_positive_alpha_beta_T_cell, regulatory_T_cell}
+
+Liver TSP6
+mononuclear_phagocyte = {classical_monocyte, intermediate_monocyte, macrophage, monocyte, non_classical_monocyte}
+T_cell = {CD8_positive_alpha_beta_T_cell, mature_NK_T_cell}
+
+Liver TSP14
+alpha_beta_T_cell = {CD4_positive_alpha_beta_T_cell, CD8_positive_alpha_beta_T_cell}
+mononuclear_phagocyte = {macrophage, monocyte}
+
+Liver TSP17
+monocyte = {classical_monocyte, intermediate_monocyte, monocyte, non_classical_monocyte}
+T_cell = {CD4_positive_alpha_beta_T_cell, CD8_positive_alpha_beta_T_cell, mature_NK_T_cell}
+
+Liver TSP19
+monocyte = {classical_monocyte, intermediate_monocyte, monocyte}
+T_cell = {CD4_positive_alpha_beta_T_cell, CD8_positive_alpha_beta_T_cell, mature_NK_T_cell}
+
+Lung TSP1
+alpha_beta_T_cell = {CD4_positive_alpha_beta_T_cell, CD8_positive_alpha_beta_T_cell}
+endothelial_cell = {capillary_endothelial_cell, endothelial_cell_of_artery}
+monocyte = {classical_monocyte, intermediate_monocyte}
+
+Lung TSP2
+airway_epithelial_cell = {basal_cell, club_cell, respiratory_tract_goblet_cell}
+endothelial_cell = {capillary_endothelial_cell, endothelial_cell_of_artery, vein_endothelial_cell}
+monocyte = {classical_monocyte, intermediate_monocyte, monocyte, non_classical_monocyte}
+T_cell = {CD4_positive_alpha_beta_T_cell, CD8_positive_alpha_beta_T_cell}
+
+Lung TSP14
+endothelial_cell = {capillary_endothelial_cell, endothelial_cell_of_artery, vein_endothelial_cell}
+mononuclear_phagocyte = {classical_monocyte, intermediate_monocyte, macrophage}
+
+Lung TSP25
+adventitial_fibroblast = {adventitial_cell, alveolar_adventitial_fibroblast}
+airway_epithelial_cell = {basal_cell, respiratory_tract_goblet_cell}
+endothelial_cell = {capillary_endothelial_cell, endothelial_cell_of_artery, vein_endothelial_cell}
+mononuclear_phagocyte = {classical_monocyte, intermediate_monocyte, macrophage}
+T_cell = {CD4_positive_alpha_beta_T_cell, CD8_positive_alpha_beta_T_cell}
+
+Lymph Node TSP2
+T_cell = {CD4_positive_alpha_beta_T_cell, CD8_positive_alpha_beta_T_cell, mature_NK_T_cell, naive_thymus_derived_CD4_positive_alpha_beta_T_cell, T_cell}
+
+Lymph Node TSP7
+T_cell = {CD4_positive_alpha_beta_T_cell, CD8_positive_alpha_beta_T_cell, mature_NK_T_cell, naive_thymus_derived_CD4_positive_alpha_beta_T_cell, regulatory_T_cell, T_cell}
+
+Lymph Node TSP14
+T_cell = {CD4_positive_alpha_beta_T_cell, CD8_positive_alpha_beta_T_cell, naive_thymus_derived_CD4_positive_alpha_beta_T_cell, regulatory_T_cell}
+
+Lymph Node TSP21
+T_cell = {CD4_positive_alpha_beta_T_cell, CD8_positive_alpha_beta_T_cell, naive_thymus_derived_CD4_positive_alpha_beta_T_cell}
+
+Lymph Node TSP25
+T_cell = {CD4_positive_alpha_beta_T_cell, CD8_positive_alpha_beta_T_cell, naive_thymus_derived_CD4_positive_alpha_beta_T_cell, T_cell}
+
+Lymph Node TSP27
+T_cell = {CD4_positive_alpha_beta_T_cell, CD8_positive_alpha_beta_T_cell, naive_thymus_derived_CD4_positive_alpha_beta_T_cell}
+
+Mammary TSP4
+T_cell = {CD4_positive_alpha_beta_T_cell, CD8_positive_alpha_beta_T_cell}
+
+Mammary TSP27
+mammary_epithelial_cell = {basal_cell, luminal_epithelial_cell_of_mammary_gland, progenitor_cell_of_mammary_luminal_epithelium}
+
+Muscle TSP1
+endothelial_cell = {capillary_endothelial_cell, endothelial_cell, endothelial_cell_of_artery, endothelial_cell_of_vascular_tree}
+skeletal_muscle_cell = {fast_muscle_cell, slow_muscle_cell}
+T_cell = {CD4_positive_alpha_beta_T_cell, CD8_positive_alpha_beta_T_cell, mature_NK_T_cell}
+
+Muscle TSP2
+endothelial_cell = {capillary_endothelial_cell, endothelial_cell, endothelial_cell_of_vascular_tree}
+
+Muscle TSP4
+endothelial_cell = {capillary_endothelial_cell, endothelial_cell_of_lymphatic_vessel, endothelial_cell_of_vascular_tree}
+T_cell = {CD4_positive_alpha_beta_T_cell, CD8_positive_alpha_beta_T_cell}
+
+Muscle TSP14
+endothelial_cell = {capillary_endothelial_cell, endothelial_cell}
+T_cell = {CD4_positive_alpha_beta_T_cell, CD8_positive_alpha_beta_T_cell}
+
+Muscle TSP25
+endothelial_cell = {capillary_endothelial_cell, endothelial_cell}
+
+Muscle TSP27
+endothelial_cell = {capillary_endothelial_cell, endothelial_cell}
